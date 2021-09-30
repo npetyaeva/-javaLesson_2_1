@@ -1,6 +1,6 @@
 ## Задача №1
 
-[Ссылка на код]()
+[Ссылка на код](https://github.com/npetyaeva/-javaLesson_2_1/blob/master/src/Main.java)
 
 ```java
 public class Main {
